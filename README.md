@@ -1,6 +1,9 @@
 Hi 👋 My name is Siddharth Paigwar<br>
 
-==================================Web And Software Developer========================= 🌍  I'm based in Bharat (India)* ✉️  You can contact me at [sidpaigwar510@gmail.com](mailto:sidpaigwar510@gmail.com)* 🧠  I'm learning JavaScript
+==================================Web And Software Developer=========================<br> 
+🌍  I'm based in Bharat (India)<br>
+✉️  You can contact me at [sidpaigwar510@gmail.com](mailto:sidpaigwar510@gmail.com)<br>
+🧠  I'm learning JavaScript
 
 ### Skills
 
