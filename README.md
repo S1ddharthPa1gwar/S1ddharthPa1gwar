@@ -20,7 +20,7 @@ Hi 👋 My name is Siddharth Paigwar<br>
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/S1ddharthPa1gwar"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/S1ddharth"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <!-- ### Hi there 👋`-->
 
 <!--
